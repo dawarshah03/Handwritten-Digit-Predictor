@@ -18,4 +18,4 @@ To check how well it predicted, I used confusion_matrix.
 
 In the end, I used seaborn heatmap to show that matrix in a nice and simple way.
 
-So yeah — this code loads the data, shows some digits, splits it, trains the model, predicts, and checks results in a visual way.
+So yeah this code loads the data, shows some digits, splits it, trains the model, predicts, and checks results in a visual way.
